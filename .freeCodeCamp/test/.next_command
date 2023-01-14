@@ -163,3 +163,12 @@ history -a
 help if
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+clear
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./countdown.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./countdown.sh arg1
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
