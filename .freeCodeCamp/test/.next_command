@@ -105,3 +105,12 @@ history -a
 ./questionnaire.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./questionnarie.she
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./questionnarie.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./questionnaire.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
