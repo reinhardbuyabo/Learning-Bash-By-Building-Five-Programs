@@ -261,3 +261,9 @@ history -a
 echo $?
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+[[ 4 -ge 5 ]]
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
