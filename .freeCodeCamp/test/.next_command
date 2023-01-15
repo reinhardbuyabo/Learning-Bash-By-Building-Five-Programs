@@ -470,3 +470,17 @@ history -a
 echo $I
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+j=$(( i - 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+j=$(( I - 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+J=$(( i - 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+J=$(( I - 6 ))
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
