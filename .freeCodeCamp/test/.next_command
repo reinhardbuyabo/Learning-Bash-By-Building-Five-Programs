@@ -528,3 +528,30 @@ history -a
 help let
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo B:$NUMBER
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo B:$RANDOM
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./bingo.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./bingo.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./bingo.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./bingo.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./bingo.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./bingo.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./bingo.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
