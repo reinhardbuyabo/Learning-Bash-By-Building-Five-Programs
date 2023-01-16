@@ -758,3 +758,10 @@ history -a
 echo $?
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+help [[ "hello world" =~ "lo wor" ]]
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+[[ "hello world" =~ "lo wor" ]]
+echo $?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
