@@ -701,3 +701,12 @@ history -a
 help until
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+test?
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+help text
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+help test
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
