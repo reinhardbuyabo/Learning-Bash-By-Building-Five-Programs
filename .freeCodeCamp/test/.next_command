@@ -848,3 +848,9 @@ history -a
 ./fortune.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+clear
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+touch five.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
